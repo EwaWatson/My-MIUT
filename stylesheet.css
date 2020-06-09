@@ -1,0 +1,51 @@
+.bg-red-ewa{
+    background-color: greenyellow;
+}
+
+
+body {
+ height: 100%;
+ margin-bottom: 0;
+  background-color: #cccccc;
+}
+
+.jumbotron {
+    background-image: url("images/runner.jpg");
+    background-color: #cccccc;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+h1 {
+    color: red;
+}
+
+h5 {    
+    text-decoration: underline;
+}
+
+a {
+    color:red;
+    }
+
+.card {
+    background: none;
+    border: none;
+    max-width: 100%;
+}
+
+.card-left {
+    float: left;
+    max-width: 50%;
+}
+
+.card-right {
+    float: right;
+    max-width: 50%;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
