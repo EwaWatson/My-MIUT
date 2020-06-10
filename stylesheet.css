@@ -10,7 +10,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("images/runner.jpg");
+    background-image: url("runner.jpg");
     background-color: #cccccc;
     background-size: 100% 100%;
     background-repeat: no-repeat;
